@@ -1,7 +1,5 @@
-<div align="center"><font size='70'>
-    OpenBackdoor
-    </font>
-</div>
+# OpenBackdoor
+ 
 
 <p align="center">
   <a target="_blank">
